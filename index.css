@@ -1,0 +1,171 @@
+body{
+    height: 100vh;
+    background-color: black;
+}
+.title1{
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    font-size: xx-small;
+    padding: 50px;
+}
+
+.hihi{
+    display: flex;
+    justify-content: center;
+    
+}
+.sp1{
+    display: flex;
+    color: white;
+    font-size:larger;
+
+}
+.img1{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.hihisp{
+    display: flex;
+    margin-left: 300px;
+}
+
+.sp2{
+    display: flex;
+    color: rgba(255, 255, 255, 0.338);
+    font-size:xx-small;
+    
+}
+
+h2{
+    display: flex;
+    color: white;
+    font-size: xx-small;
+    justify-content: center;
+    text-align: start;
+    
+
+}
+
+.haha{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.sp3{
+    display: flex;
+    color: white;
+    font-size:larger;
+
+}
+.img2{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.hahasp{
+    display: flex;
+    margin-left: 300px;
+}
+
+.sp4{
+    display: flex;
+    color: rgba(255, 255, 255, 0.338);
+    font-size:xx-small;
+}
+h3{
+    display: flex;
+    color: white;
+    font-size: xx-small;
+    justify-content: center;
+    text-align: start;
+}
+
+
+.hoho{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.sp5{
+    display: flex;
+    color: white;
+    font-size:larger;
+
+}
+.img3{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.hohosp{
+    display: flex;
+    margin-left: 300px;
+}
+
+.sp6{
+    display: flex;
+    color: rgba(255, 255, 255, 0.338);
+    font-size:xx-small;
+}
+h4{
+    display: flex;
+    color: white;
+    font-size: xx-small;
+    justify-content: center;
+    text-align: start;
+    
+}
+.navbaar{
+    display: flex;
+    background-color: rgb(92, 87, 87);
+    margin-top: 80px;
+}
+.title2{
+    display: flex;
+    color: white;
+    margin-left: 30%;
+
+}
+
+.title3{
+    display: flex;
+    color: white;
+}
+.navbaar2{
+    display: flex;
+    background-color: rgb(92, 87, 87);
+}
+h6{
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    color: white;
+}
+
+.navbaar3{
+    display: flex;
+    background-color: rgb(92, 87, 87);
+    justify-content: center;
+}
+
+.sp5{
+    display: flex;
+    color: white;
+    font-size:larger;
+
+}
+.img4{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.navbaar4{
+    display: flex;
+    background-color: rgb(92, 87, 87);
+    padding: 5%;
+    gap: 30px;
+    justify-content: center;
+
+}
